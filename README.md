@@ -6,7 +6,7 @@
 	* basic settings
 		* high dpi scaling (at the time i'm writing this i'm using a 4k 32" monitor)
 			* add to ~/.config/i3/config (for i3)
-				* > xrandr --dpi 220
+				* > exec xrandr --dpi 220
 			* add to ~/.profile (for other applications)
 				* > export GDK_SCALE=2
 	* set custom config ( WIP )
